@@ -1,9 +1,9 @@
 /*
  * Name: SewisePlayerSkin localSkin
- * Author: Jack Zhang
+ * Author: keyun
  * Website: http://www.sewise.com/
- * Date: 24th March 2014
- * Copyright: 2014, Sewise
+ * Date: 2016/8/30
+ * Copyright: 2016, Sewise
  * 
  */
 
@@ -33,7 +33,7 @@ window.SewisePlayerSkin.localSkin =
 					'</li>' + 
 					'<li class="right-float"><a href="javascript:;" class="controlbar-btns-soundclose" tabindex="1">音量关闭</a></li>' + 
 					'<li class="right-float"><a href="javascript:;" class="controlbar-btns-soundopen" tabindex="1">音量打开</a></li>' + 
-					'<div class="controlbar-playtime">00:00/00:00</div>' + 
+					'<div class="controlbar-playtime">00:00:00/00:00:00</div>' + 
 				'</ul>' + 
 			'</div>' + 
 			'<div class="logo">' + 
@@ -44,7 +44,7 @@ window.SewisePlayerSkin.localSkin =
 					'<div class="topbar-program-tip">正在播放：</div>' + 
 					'<div class="topbar-program-title"></div>' + 
 				'</div>' + 
-				'<div class="topbar-clock">2013-01-01 00:00:00</div>' + 
+				'<div class="topbar-clock"></div>' + 
 			'</div>' + 
 			'<div class="buffer">' + 
 				'<div class="buffer-bg">背景图片</div>' + 

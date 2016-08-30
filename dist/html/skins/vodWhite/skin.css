@@ -299,7 +299,11 @@
 	
 	background: url("big_play_btn.png") 0px 0px no-repeat;
 	text-indent: -10000px;
+	-webkit-transition: all; 
+	   -moz-transition: all;
+		 -o-transition: all;
+			transition: all;
 }
 .vodWhite div.sewise-player-ui div.big-play-btn:hover a.big-play-icon {
-	background: url("big_play_btn.png") -80px 0px no-repeat;
+	background: url("big_play_btn.png") 0px 0px no-repeat;
 }

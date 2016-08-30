@@ -66,7 +66,7 @@
 	width: 315px;
 	height: 20px;
 	top: 0px;
-	left: 0px;
+	left: 8px;
 }
 .vodFlowPlayer div.sewise-player-ui div.controlbar div.controlbar-progress div.controlbar-progress-totalline {
 	position: absolute;
@@ -180,7 +180,7 @@
 	color: white;
 	line-height: 20px;
 	padding-left: 10px;
-	padding-right: 5px;
+	padding-right: 13px;
 	text-align: center;
 }
 /**------------------------------清晰度选择面板-------------------*/

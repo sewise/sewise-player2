@@ -14,7 +14,7 @@ window.SewisePlayerSkin.localSkin =
 			'<ul class="controlbar-btns">'+
 				'<li><a href="javascript:;" class="controlbar-btns-play" tabindex="1">播放</a></li>'+
 				'<li><a href="javascript:;" class="controlbar-btns-pause" tabindex="2">暂停</a></li>'+
-				'<div class="controlbar-playtime">00:00</div>'+
+				'<div class="controlbar-playtime">00:00:00</div>'+
 				'<div class="controlbar-progress">'+
 					'<div class="controlbar-progress-totalline"></div>'+
 					'<div class="controlbar-progress-loadedline"></div>'+
@@ -34,7 +34,7 @@ window.SewisePlayerSkin.localSkin =
 				'</li>'+
 				'<li class="right-float"><a href="javascript:;" class="controlbar-btns-soundclose" tabindex="1">音量关闭</a></li>'+
 				'<li class="right-float"><a href="javascript:;" class="controlbar-btns-soundopen" tabindex="1">音量打开</a></li>'+
-				'<div class="controlbar-totaltime">00:00</div>'+
+				'<div class="controlbar-totaltime">00:00:00</div>'+
 			'</ul>'+
 		'</div>'+
 		'<div class="logo">'+

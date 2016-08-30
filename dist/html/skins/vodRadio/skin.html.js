@@ -1,9 +1,9 @@
 /*
  * Name: SewisePlayerSkin localSkin
- * Author: Jack Zhang
+ * Author: keyun
  * Website: http://www.sewise.com/
- * Date: 24th March 2014
- * Copyright: 2014, Sewise
+ * Date: 2016/8/30
+ * Copyright: 2016, Sewise
  * 
  */
 
