@@ -5,6 +5,7 @@
     left:0px;
     top:0px;
 }
+
 .sewiseplayer-container ul>li a{
 	-webkit-transition: all; 
 	   -moz-transition: all;
@@ -50,8 +51,10 @@ div.sewise-player-ui {
 	font-family: 'Trebuchet MS' Verdana, Arial, sans-serif;
 	pointer-events: none;
 }
+
 div.sewise-player-ui *{
 	outline: none;
+	
 }
 .sewiseplayer-poster-div{
     position: absolute;
